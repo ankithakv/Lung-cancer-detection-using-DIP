@@ -1,2 +1,8 @@
 # Lung-cancer-detection-using-DIP
 Lung Cancer Disease Detection using digital image processing with preprocessing steps
+
+Lung cancer is a disease of uncontrolled cell growth in tissues of the lung. Since lung cancer is one of the leading causes of death, early detection of malignant tumors is imperative for a successful recovery. In general, early stage lung cancer diagnosis techniques mainly utilize X-ray chest films, CT, MRI, etc. Computed tomography (CT) produces a series of cross-sectional images covering a part of the human body. For our case specifically, we will focus on the thoracic region. 
+Visually identifying and examining these images for potential abnormalities is a challenging and time consuming task due to the large amount of information that needs to be processed, and the short amount of time given. The subject of medical image mining is currently an up and coming topic and shows a lot of research potential in the area of computational intelligence. By auto-analysing a patient’s records and images through image processing techniques, we would reduce the risk of human error in nodule detection. 
+By applying a combination of techniques in data pre-processing, feature extraction, and classification, we ultimately seek to increase the accuracy rate of cancer detection, while simultaneously reducing the false positive diagnosis rate.
+Many researchers proposed many solutions and challenges of different phases of computer aided system to detect the lung cancer in early stages and give the facts about the lung cancer. CV (Computer Vision) play vital role to prevent lung cancer. 
+
